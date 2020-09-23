@@ -1,0 +1,11 @@
+{
+  "name": "lista-de-paises",
+  "version": "1.0.0",
+  "description": "Aplicação feita em HTML5, CSS3, JavaScript ES6+ com consulta à API externa e sistema de inclusão/exclusão de itens em lista.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luiz Felipe Fernandes",
+  "license": "ISC"
+}
